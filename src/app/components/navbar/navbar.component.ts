@@ -54,7 +54,7 @@ export class NavbarComponent implements OnInit {
     { label: 'Servicios', link: '/servicios', icon: 'assets/icon/navBar/fill/servicios.svg' },
     { label: 'Blog', link: '/blog', icon: 'assets/icon/navBar/fill/blog.svg' },
     { label: 'Contacto', link: '/contacto', icon: 'assets/icon/navBar/fill/contacto.svg' },
-    { label: 'Dashboard', link: '/dashboard', icon: 'assets/icon/navBar/fill/dashboard.svg' },
+
   ];
 
   redes = [
